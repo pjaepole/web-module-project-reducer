@@ -5,7 +5,8 @@ const CalcButton = (props) => {
 
     return(<div className={`col-xs-${size}`}>
         <button type="button" onClick={onClick} className="btn">{value}</button>
-        <p>starting</p>
+        <p>startingasdf</p>
+        <p>starting 2</p>
     </div>);
 }
 
